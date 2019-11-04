@@ -48,7 +48,7 @@ string FileContent = File.ReadAllText(FilePath);
 string Password = "EncryptionPassword";
 byte[] DecryptedFile = Crypter.DecryptByte(Password, FileContent);
 
-//Updating File With Encryped File
+//Updating File With Decryped File
 File.WriteAllBytes(FilePath, DecryptedFile);
 ...
 ```
