@@ -1,0 +1,10 @@
+E:\Projects\BotCrypt\BotCrypt.Core\bin\Release\netcoreapp3.0\BotCrypt.Core.deps.json
+E:\Projects\BotCrypt\BotCrypt.Core\bin\Release\netcoreapp3.0\BotCrypt.Core.dll
+E:\Projects\BotCrypt\BotCrypt.Core\bin\Release\netcoreapp3.0\BotCrypt.Core.pdb
+E:\Projects\BotCrypt\BotCrypt.Core\obj\Release\netcoreapp3.0\BotCrypt.Core.AssemblyInfoInputs.cache
+E:\Projects\BotCrypt\BotCrypt.Core\obj\Release\netcoreapp3.0\BotCrypt.Core.AssemblyInfo.cs
+E:\Projects\BotCrypt\BotCrypt.Core\obj\Release\netcoreapp3.0\BotCrypt.Core.dll
+E:\Projects\BotCrypt\BotCrypt.Core\obj\Release\netcoreapp3.0\BotCrypt.Core.pdb
+E:\Projects\BotCrypt\BotCrypt.Core\bin\Release\netcoreapp3.0\Licence.txt
+E:\Projects\BotCrypt\BotCrypt.Core\bin\Release\netcoreapp3.0\icon.png
+E:\Projects\BotCrypt\BotCrypt.Core\obj\Release\netcoreapp3.0\BotCrypt.Core.csprojAssemblyReference.cache

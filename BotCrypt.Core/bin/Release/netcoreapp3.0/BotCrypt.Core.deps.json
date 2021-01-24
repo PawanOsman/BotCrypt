@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "BotCrypt.Core/1.0.2": {
+        "runtime": {
+          "BotCrypt.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BotCrypt.Core/1.0.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

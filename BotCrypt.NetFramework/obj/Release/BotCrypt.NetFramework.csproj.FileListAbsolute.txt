@@ -1,0 +1,6 @@
+E:\Projects\BotCrypt\BotCrypt.NetFramework\bin\Release\BotCrypt.NetFramework.dll
+E:\Projects\BotCrypt\BotCrypt.NetFramework\bin\Release\BotCrypt.NetFramework.pdb
+E:\Projects\BotCrypt\BotCrypt.NetFramework\obj\Release\BotCrypt.NetFramework.dll
+E:\Projects\BotCrypt\BotCrypt.NetFramework\obj\Release\BotCrypt.NetFramework.pdb
+E:\Projects\BotCrypt\BotCrypt.NetFramework\bin\Release\icon.png
+E:\Projects\BotCrypt\BotCrypt.NetFramework\bin\Release\Licence.txt

@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Pawan Osman</Authors>
+    <Company />
+    <Description>Encrypt &amp; Decrypt Strings and Bytes with Password (.Net Core)</Description>
+    <Copyright>©2019, All rights reserved.</Copyright>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <Version>1.0.2</Version>
+    <PackageIconUrl>https://www.botlandgroup.com/Nuget/Icons/BotCryptV1.png</PackageIconUrl>
+    <PackageIcon>icon.png</PackageIcon>
+    <RepositoryUrl>https://github.com/pawanosman/BotCrypt</RepositoryUrl>
+    <PackageTags>cipher cypher encode encipher inscribe cipher encrypt decrypt decipher decode encrypt file protect password lock unlock salt key</PackageTags>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/pawanosman/BotCrypt</PackageProjectUrl>
+    <PackageLicenseFile>Licence.txt</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Licence.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

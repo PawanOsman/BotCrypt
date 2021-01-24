@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BotCrypt.Test/1.0.0": {
+        "dependencies": {
+          "BotCrypt": "1.0.2"
+        },
+        "runtime": {
+          "BotCrypt.Test.dll": {}
+        }
+      },
+      "BotCrypt/1.0.2": {
+        "runtime": {
+          "BotCrypt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BotCrypt.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BotCrypt/1.0.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
