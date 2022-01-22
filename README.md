@@ -9,7 +9,7 @@
     <img alt="logo" src="https://badge.fury.io/nu/BotCrypt.svg">
 </a>
 #
-### Installation Methodes
+### Installation Methods
 - Search for "BotCrypt" at Nuget Package Manager in Visual Studio.
 - Run "Install-Package BotCrypt" at Package manager Console in Visual Studio.
 - Run "dotnet add package BotCrypt" at your Command Line.
