@@ -1,8 +1,0 @@
-E:\Projects\BotCrypt\BotCrypt\bin\Debug\netstandard2.0\BotCrypt.deps.json
-E:\Projects\BotCrypt\BotCrypt\bin\Debug\netstandard2.0\BotCrypt.dll
-E:\Projects\BotCrypt\BotCrypt\bin\Debug\netstandard2.0\BotCrypt.pdb
-E:\Projects\BotCrypt\BotCrypt\obj\Debug\netstandard2.0\BotCrypt.csprojAssemblyReference.cache
-E:\Projects\BotCrypt\BotCrypt\obj\Debug\netstandard2.0\BotCrypt.AssemblyInfoInputs.cache
-E:\Projects\BotCrypt\BotCrypt\obj\Debug\netstandard2.0\BotCrypt.AssemblyInfo.cs
-E:\Projects\BotCrypt\BotCrypt\obj\Debug\netstandard2.0\BotCrypt.dll
-E:\Projects\BotCrypt\BotCrypt\obj\Debug\netstandard2.0\BotCrypt.pdb
