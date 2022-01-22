@@ -52,4 +52,4 @@ byte[] DecryptedFile = Crypter.DecryptByte(Password, FileContent);
 File.WriteAllBytes(FilePath, DecryptedFile);
 ...
 ```
-#### ©2019, All rights reserved, BotCrypt
+#### ©2022, All rights reserved, BotCrypt
