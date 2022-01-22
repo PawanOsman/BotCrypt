@@ -1,22 +1,27 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Authors>Pawan Osman</Authors>
-    <Company />
-    <Description>Encrypt &amp; Decrypt Strings and Bytes with Password (.Net Standard)</Description>
-    <Copyright>©2019, All rights reserved.</Copyright>
+    <Company>GrandLink</Company>
+    <Description>Encrypt &amp; Decrypt Strings and Bytes with Password</Description>
+    <Copyright>©2022, All rights reserved.</Copyright>
     <PackageLicenseExpression></PackageLicenseExpression>
     <Version>1.0.2</Version>
-    <PackageIconUrl>https://www.botlandgroup.com/Nuget/Icons/BotCryptV1.png</PackageIconUrl>
+    <PackageIconUrl>https://www.grandlink.xyz/nuget/botcrypt/icon.png</PackageIconUrl>
     <PackageIcon>icon.png</PackageIcon>
     <RepositoryUrl>https://github.com/pawanosman/BotCrypt</RepositoryUrl>
     <PackageTags>cipher cypher encode encipher inscribe cipher encrypt decrypt decipher decode encrypt file protect password lock unlock salt key</PackageTags>
     <RepositoryType>git</RepositoryType>
     <PackageProjectUrl>https://github.com/pawanosman/BotCrypt</PackageProjectUrl>
     <PackageLicenseFile>Licence.txt</PackageLicenseFile>
+    <TargetFrameworks>net452;net472;net48;net5.0;net6.0;netcoreapp3.1;netstandard2.0;netstandard2.1</TargetFrameworks>
+    <LangVersion>10</LangVersion>
+    <PackageVersion>1.5.0</PackageVersion>
+    <Title>BotCrypt, Simple way to Encrypt or Dycrypt String and Files!</Title>
+    <AssemblyVersion>1.5.0</AssemblyVersion>
+    <FileVersion>1.5.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
