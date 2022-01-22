@@ -1,6 +1,14 @@
 # BotCrypt
 #### Simple way to Encrypt or Dycrypt String and Files!
 #
+[![GitHub issues](https://img.shields.io/github/issues/pawanosman/BotCrypt)](https://github.com/pawanosman/BotCrypt/issues)
+[![GitHub forks](https://img.shields.io/github/forks/pawanosman/BotCrypt)](https://github.com/pawanosman/BotCrypt/network)
+[![GitHub stars](https://img.shields.io/github/stars/pawanosman/BotCrypt)](https://github.com/pawanosman/BotCrypt/stargazers)
+[![GitHub license](https://img.shields.io/github/license/pawanosman/BotCrypt)](https://github.com/pawanosman/BotCrypt)
+<a href="https://www.nuget.org/packages/BotCrypt">
+    <img alt="logo" src="https://badge.fury.io/nu/BotCrypt.svg">
+</a>
+#
 ### Installation Methodes
 - Search for "BotCrypt" at Nuget Package Manager in Visual Studio.
 - Run "Install-Package BotCrypt" at Package manager Console in Visual Studio.
